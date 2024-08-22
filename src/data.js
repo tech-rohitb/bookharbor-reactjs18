@@ -48,3 +48,6 @@ export const FeatureBooks = [
   { id: 1, title: "Love of My Life", book_cover: Book1, selling_price: "100.00", mrp: "600.00" },
   { id: 9, title: "Soul", book_cover: Book9, selling_price: "850.00", mrp: "1800.00" },
 ]
+
+// adding comments after watching your tutorial on vscode git
+// keep up the good work
